@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others to Learn as I work
 - 🥅 2021 Goals: Build a full Stack Profile
-- ⚡ Fun fact: I love to play guitar and basketBall
+- ⚡ Fun fact: I love to play guitar and basketBall.
 
 
 ### Connect with me:
