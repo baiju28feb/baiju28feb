@@ -1,4 +1,4 @@
-### Hi there, I'm Baiju :boy: 👋
+### Hi there, I'm Baiju :boy: <img src = "https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width= "50" alt = 👋 > 
 
 <img src="https://camo.githubusercontent.com/c21636fd7349af9ba784d8275c42e1cfa4f2a9f6e970401de2553b59441c3e4b/68747470733a2f2f3230306f6b2e63682f696d672f3230306f6b2e737667" width="520">
 
