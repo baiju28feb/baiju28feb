@@ -21,8 +21,11 @@
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-
+<code><img height= "20" src = "https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
+<code><img height= "20" src = "https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png"></code>
+<code><img height= "20" src = "https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png"></code>
+<code><img height= "20" src = "https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png"></code>
+<code><img height= "20" src = "https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png"></code>
 <br />
 <br />
 
