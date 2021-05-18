@@ -1,6 +1,6 @@
-Markup : ![picture alt](https://camo.githubusercontent.com/c21636fd7349af9ba784d8275c42e1cfa4f2a9f6e970401de2553b59441c3e4b/68747470733a2f2f3230306f6b2e63682f696d672f3230306f6b2e737667 "Title is optional")
-
 ### Hi there, I'm Baiju :boy: 👋
+
+<img src="https://camo.githubusercontent.com/c21636fd7349af9ba784d8275c42e1cfa4f2a9f6e970401de2553b59441c3e4b/68747470733a2f2f3230306f6b2e63682f696d672f3230306f6b2e737667" width="520">
 
 
 ## I'm a BackEnd Developer who is looking to become FullStack !!
