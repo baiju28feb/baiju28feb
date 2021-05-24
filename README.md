@@ -32,9 +32,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Baiju's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baiju28feb&show_icons=true&hide_border=true" />
+  <img align="left" alt="Baiju's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=baiju28feb&show_icons=true&hide_border=true&theme=gotham" alt="Baiju Chandran | Stats" />
 
 </details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{baiju28feb}/count.svg)
 
 [twitter]: https://twitter.com/_BaijuChandran
 [instagram]: https://www.instagram.com/baiju_chandran/
